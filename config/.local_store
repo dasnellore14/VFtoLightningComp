@@ -1,0 +1,44 @@
+{
+    "receiveDataByComponent/receiveDataByComponentController.js.undefined": {
+        "createdById": "0056F000009FnCGQA0",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-01-30T06:10:28.000Z",
+        "fileName": "unpackaged/aura/receiveDataByComponent/receiveDataByComponentController.js",
+        "fullName": "receiveDataByComponent/receiveDataByComponentController.js",
+        "id": "0Ad6F000001DAGOSA4",
+        "lastModifiedById": "0056F000009FnCGQA0",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-01-30T14:44:00.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
+    "receiveDataByComponent/receiveDataByComponent.cmp.undefined": {
+        "createdById": "0056F000009FnCGQA0",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-01-29T17:22:18.000Z",
+        "fileName": "unpackaged/aura/receiveDataByComponent/receiveDataByComponent.cmp",
+        "fullName": "receiveDataByComponent/receiveDataByComponent.cmp",
+        "id": "0Ad6F000001DAB3SAO",
+        "lastModifiedById": "0056F000009FnCGQA0",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-01-30T14:41:37.000Z",
+        "manageableState": "unmanaged",
+        "type": "AuraDefinitionBundle",
+        "mmState": "clean"
+    },
+    "sendDataFromVFPage.page": {
+        "createdById": "0056F000009FnCGQA0",
+        "createdByName": "Krishna Teja Karnam",
+        "createdDate": "2019-01-29T17:22:44.000Z",
+        "fileName": "unpackaged/pages/sendDataFromVFPage.page",
+        "fullName": "sendDataFromVFPage",
+        "id": "0666F00000C05l6QAB",
+        "lastModifiedById": "0056F000009FnCGQA0",
+        "lastModifiedByName": "Krishna Teja Karnam",
+        "lastModifiedDate": "2019-01-30T06:14:55.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexPage",
+        "mmState": "clean"
+    }
+}

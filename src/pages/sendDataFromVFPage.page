@@ -1,0 +1,16 @@
+<apex:page >
+    
+    <input type="text" id="message" />
+    <button onclick="sendData()">Send Data To Lightning Component</button>
+    
+    
+    <script>
+    
+    	var lexOrigin = 'https://teja-dev-ed-dev-ed.lightning.force.com';
+        function sendData(){
+        	var message = document.getElementById('message').value;
+            
+            parent.postMessage(message, lexOrigin);
+        }
+    </script>
+</apex:page>

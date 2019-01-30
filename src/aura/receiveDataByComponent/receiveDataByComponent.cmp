@@ -1,0 +1,11 @@
+<aura:component implements="flexipage:availableForAllPageTypes" access="global" >
+    
+    <aura:attribute name="baseDomain" type="String" default="teja-dev-ed-dev-ed--c.ap4.visual.force.com" />
+    <aura:attribute name="receivedData" type="String" />
+    
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>
+    
+    {! v.receivedData }
+
+    <iframe aura:id="fromVFPage" src="{! 'https://'+ v.baseDomain + '/apex/sendDataFromVFpage' }" frameborder="0"/>
+</aura:component>

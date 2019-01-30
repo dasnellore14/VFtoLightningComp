@@ -1,0 +1,18 @@
+{
+    "projectName": "vfPageToltngCmp",
+    "username": "iam_teja@salesforcecasts.com",
+    "id": "0a52e9f0-24b4-11e9-8359-db8caaf303d0",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://teja-dev-ed-dev-ed.my.salesforce.com",
+    "workspace": "/Users/KrishnaTeja/Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AuraDefinitionBundle",
+        "StaticResource"
+    ]
+}
